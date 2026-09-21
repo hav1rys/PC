@@ -1,0 +1,19 @@
+{
+  "name": "pc-control-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Telegram bot for remote-controlling this PC: power actions, launching apps, dual-monitor screenshots, file transfer.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-notifier": "^10.0.1",
+    "node-telegram-bot-api": "^0.66.0",
+    "screenshot-desktop": "^1.15.0",
+    "sharp": "^0.33.5",
+    "systeminformation": "^5.22.11"
+  }
+}

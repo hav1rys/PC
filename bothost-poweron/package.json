@@ -1,0 +1,15 @@
+{
+  "name": "pc-poweron-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Отдельный Telegram-бот для BotHost: включает ПК через умную Wi-Fi розетку (Tuya Cloud API).",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@tuya/tuya-connector-nodejs": "^2.0.4",
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "steam": "C:\\Program Files (x86)\\Steam\\Steam.exe",
+  "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "notepad": "notepad.exe",
+  "explorer": "explorer.exe",
+  "GTA5RP": "C:\\Users\\Public\\Desktop\\GTA5RP Launcher.lnk",
+
+  "_comment": "Добавляй свои игры/программы сюда: \"имя\": \"путь\\\\до\\\\файла.exe\". Для игр в Steam можно указывать steam://rungameid/<AppID>, например \"cs2\": \"steam://rungameid/730\""
+}
